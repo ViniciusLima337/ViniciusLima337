@@ -1,7 +1,7 @@
 ### Hello, welcome, my name is Vinicius Lima! 👋
 
 - 🔭 Currently interning in IT.
-- 🌱 Learning JavaScript, Java & React.
+- 🌱 Learning JavaScript, R, Python & Java.
 - ⚡ Video Games Enthusiast
 
 ##
